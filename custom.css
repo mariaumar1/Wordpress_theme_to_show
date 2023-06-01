@@ -1,0 +1,23 @@
+
+/* =====page_with_Tabs==================== */
+.nav-tabs {
+display:none;
+}
+
+.nav-tabs {
+display: flex;
+}
+
+.card {
+border: none;
+}
+
+.card .card-header {
+display:none;
+}
+
+.card .collapse{
+display:block;
+}
+
+/* ====page_with_Tabs===================== */
